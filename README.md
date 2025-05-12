@@ -1,2 +1,5 @@
 # llm_experiments
-Experiments using LLMs and AI
+
+This repo contains some experiments that I am doing with LLMs.
+
+This includes chatbots and extracting data from unstructured sources. 
