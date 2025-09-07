@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 """
 LLM Pricing Simulator — replication of Fish, Gonczarowski & Shorrer (2025) arXiv:2404.00806
