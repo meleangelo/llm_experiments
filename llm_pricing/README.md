@@ -1,6 +1,6 @@
 # LLM Pricing Simulator
 
-A Python implementation of the LLM-based pricing simulation from * "Algorithmic Collusion by Large Language Models" by Fish, Gonczarowski & Shorrer (2025)** -  [https://arxiv.org/abs/2404.00806](https://arxiv.org/abs/2404.00806).
+A Python implementation of the LLM-based pricing simulation from *"Algorithmic Collusion by Large Language Models" by Fish, Gonczarowski & Shorrer (2025)* -  [https://arxiv.org/abs/2404.00806](https://arxiv.org/abs/2404.00806).
 
 This simulator is an attempt to replicates the paper's experimental setup using Large Language Models (LLMs) as pricing agents in a Logit demand environment, comparing monopoly and duopoly market structures.
 
