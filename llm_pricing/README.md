@@ -14,7 +14,7 @@ This project is for my personal research. *Please cite the original paper if you
 ## 🎯 Overview
 
 The simulator implements:
-- **Logit demand model** with configurable parameters $$ \alpha, \beta, \mu, a_0, a_i, c_i $$ (see details in the paper) 
+- **Logit demand model** with configurable parameters α, β, μ, a₀, aᵢ, cᵢ (see details in the paper) 
 - **LLM-based pricing agents** using OpenAI's GPT models
 - **Two prompt architectures** (P1 and P2) as specified in the paper's appendices
 - **Memory persistence** for agent learning across periods
@@ -71,9 +71,9 @@ The simulator runs a duopoly pricing game where two LLM agents compete by settin
 
 ### Default Parameters
 - **Market structure:** Symmetric duopoly
-- **Demand model:** Logit with $$\alpha=1.0, \beta=100.0, \mu=0.25$$
-- **Firm qualities:** $$ a_1=a_2=2.0$$
-- **Marginal costs:** $$c_1=c_2=1.0$$
+- **Demand model:** Logit with α=1.0, β=100.0, μ=0.25
+- **Firm qualities:** a₁=a₂=2.0
+- **Marginal costs:** c₁=c₂=1.0
 - **Simulation length:** 300 periods (more period, higher cost)
 
 ## 🔧 Configuration
